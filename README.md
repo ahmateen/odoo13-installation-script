@@ -5,6 +5,10 @@ This is a three step installation guide to install Odoo 13 on Ubuntu 18.04 &amp;
 
 Once completed you'll need to start installing dependencies and installing Odoo to do this run:
 
+```sudo ./odoo_install.sh```
+
+When complete you will be able to access the Odoo Server on your `localhost:8069` address. This scsript was created by Ocademy.
+
 
 
 
